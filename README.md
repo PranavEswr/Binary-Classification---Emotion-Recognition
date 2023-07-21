@@ -1,4 +1,4 @@
-# Binary-Image-Classification---Emotion-Recognition
+# Emotion-Recognition --- Binary Image Classification
 
 Problem Statement:- We are given a facial image and we need to make a model that classifies whether that image is happy or not happy.
 
