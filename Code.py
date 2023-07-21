@@ -50,7 +50,7 @@ model.compile(loss='binary_crossentropy',
 ###################### Fit the Model ######################
 model_fit = model.fit(train_dataset, 
                      steps_per_epoch=3,
-                     epochs=1,
+                     epochs=6,
                      validation_data = valid_dataset)
 
 ###################### Check the trained model on test data ######################
